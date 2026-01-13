@@ -1,0 +1,8 @@
+{
+  "name": "Tasty Food",
+  "description": "An advanced AI-powered culinary companion for creating recipes, editing food photography, and hands-free voice assistance in the kitchen.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
